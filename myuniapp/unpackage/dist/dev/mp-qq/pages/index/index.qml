@@ -1,0 +1,1 @@
+<view class="container"><test vue-id="57282994-1" title="{{title}}" data-event-opts="{{[['^postTestEvent',[['testEvent']]]]}}" bind:postTestEvent="__e" bind:__l="__l"></test></view>

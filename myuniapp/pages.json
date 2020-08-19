@@ -1,0 +1,50 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	}    ,{
+            "path" : "pages/news/news",
+            "style" : {
+				"navigationBarTitleText": "新闻"
+			}
+        }
+        ,{
+            "path" : "pages/test/test",
+            "style" : {
+				"navigationBarTitleText": "测试"
+			}
+        }
+    ],
+	"tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#66AAFF",
+	    "borderStyle": "black",
+	    "backgroundColor": "#ffffff",
+	    "list": [{
+	        "pagePath": "pages/index/index",
+			"iconPath":"static/img/home.png",
+			"selectedIconPath":"static/img/home-active.png",
+	        "text": "首页"
+	    },
+		{
+	        "pagePath": "pages/news/news",
+			"iconPath":"static/img/my.png",
+			"selectedIconPath":"static/img/my-active.png",
+	        "text": "新闻"
+	    },
+		{
+		    "pagePath": "pages/test/test",
+			"iconPath":"static/img/place.png",
+			"selectedIconPath":"static/img/place-active.png",
+		    "text": "测试"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}

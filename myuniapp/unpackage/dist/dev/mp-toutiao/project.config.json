@@ -1,0 +1,10 @@
+{
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "urlCheck": false
+  },
+  "appid": "体验appId",
+  "projectname": "myuniapp"
+}

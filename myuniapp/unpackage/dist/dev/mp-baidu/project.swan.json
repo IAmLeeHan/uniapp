@@ -1,0 +1,11 @@
+{
+  "appid": "touristappid",
+  "appInfo": {},
+  "appkey": "",
+  "condition": {},
+  "setting": {
+    "urlCheck": false
+  },
+  "libVersion": "",
+  "projectname": "myuniapp"
+}

@@ -1,0 +1,1 @@
+<view class="container"><test vue-id="8dd740cc-1" bind:__l="__l" vue-slots="{{['default']}}">我是首页</test>{{''+"abc"+''}}<view>{{title}}</view><view>{{title+"按不出"}}</view><view>{{$root.g0!==-1?"YES":"NO"}}</view><view>{{$root.g1}}</view></view>
